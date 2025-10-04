@@ -20,5 +20,5 @@ This is a Generative AI chatbot that answers questions from YouTube videos using
 2. Add your `.env` file with API keys
 3. Run:
    ```bash
-   streamlit run app.py
+   streamlit run app2.py
    ```
