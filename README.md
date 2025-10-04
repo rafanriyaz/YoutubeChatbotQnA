@@ -1,5 +1,4 @@
 # Youtube Q&A Chatbot
-# YouTube Q&A Chatbot
 
 This is a Generative AI chatbot that answers questions from YouTube videos using:
 - **Gemini API** for embeddings and response generation
