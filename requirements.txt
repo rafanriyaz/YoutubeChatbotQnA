@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+pinecone-client
+python-dotenv
+yt-dlp
+faster-whisper
+pydub
+SpeechRecognition
+gTTS
+tqdm
